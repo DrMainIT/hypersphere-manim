@@ -1,1 +1,1 @@
-Simple script using manim. The objective is try to rapresentate the hypersphere 
+Simple script using manim. The objective is try to represent the hypersphere 
